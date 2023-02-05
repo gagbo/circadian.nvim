@@ -4,7 +4,7 @@
 
 local M = {}
 
-local lustrous = require("lustrous")
+local lustrous = require("circadian.lustrous")
 
 local timer
 
